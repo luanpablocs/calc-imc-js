@@ -4,6 +4,7 @@
 
 >Projeto 'Calculadora de IMC em JavaScript'
 
+<i><b><u>Calculadora de IMC</i></b></u> fará um breve calcula do seu Índice de Massa Corporal, para dizer se seu peso está adequado conforme as medidas da OMS.
 Projeto construído seguindo as dicas do <b>Matheus Battisti - Hora de Codar</b> [YouTube](https://www.youtube.com/watch?v=Jx_msqDaiCgt)
 
 [🔗 Clique aqui para acessar](https://calculadora-imc-pi.vercel.app/)
